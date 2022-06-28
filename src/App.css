@@ -1,0 +1,11 @@
+.button-ok {
+  margin: 10px 20px;
+  background-color: chartreuse;
+  color: white;
+  border-color: chartreuse;
+  border-radius: 5px;
+}
+
+.button-ok:hover {
+  background-color: rgb(19, 37, 1);
+}
